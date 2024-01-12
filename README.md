@@ -18,3 +18,11 @@
 <p>Proyektimizni build qilib uni zip qilib olamiz</p>
 <br />
 <img width="962" alt="buildzip" src="https://github.com/Asranov/web-app-deployment-guide/assets/108418860/3e0dd74f-6740-4536-9138-6f6d83b4d83d">
+<br />
+<h2>3.Qadam</h2>
+<p>Build zip ni olib cPanel>FaylMenejeri>public_html ichiga zipdan chiqarib qoyamiz.</p>
+<br />
+<img width="1436" alt="cpanel" src="https://github.com/Asranov/web-app-deployment-guide/assets/108418860/1a8d0ae7-561d-4bb1-ae61-e90a2c692b99">
+<br />
+<img width="1433" alt="managerfiles" src="https://github.com/Asranov/web-app-deployment-guide/assets/108418860/8d1fdeca-42e8-4a06-86cd-41e8a531f2a6">
+
