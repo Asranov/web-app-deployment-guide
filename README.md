@@ -1,6 +1,6 @@
 # web-app-deployment-guide
 
-<h2>Bugungi raqamli davrda veb-ishlab chiqish eng talab qilinadigan ko‘nikmalardan biriga aylandi, va shunday qilib sizlar uchun vebsaytimizni hostinga joylashni sizlar ga o‘rgatmoqchiman qadam ba qadam (ahost.uz yoki eskiz.uz)</h2>
+<h2>Bugungi raqamli davrda veb-ishlab chiqish eng talab qilinadigan ko‘nikmalardan biriga aylandi, va shunday qilib sizlar uchun vebsaytimizni hostinga joylashni sizlar ga o‘rgatmoqchiman qadam ba qadam (ahost.uz, eskiz.uz...)</h2>
 
 <h2>1.Qadam</h2>
 <p>Birinchi o‘rinda biz domain va hosting sotib olishimiz kerak bo‘ladi va domainni faol qilamiz, faol qilish uchun Hosting nom serverlaridan foydalanamiz.</p>
