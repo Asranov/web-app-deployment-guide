@@ -31,13 +31,13 @@
 <br />
 <p>.htaccess file yaratib olamiz</p>
 <p>
-<IfModule mod_rewrite.c>
+&lt;IfModule mod_rewrite.c&gt;
   RewriteEngine On
   RewriteBase /
   RewriteRule ^index\.html$ - [L]
   RewriteCond %{REQUEST_FILENAME} !-f
   RewriteCond %{REQUEST_FILENAME} !-d
   RewriteRule . /index.html [L]
-</IfModule>
+&lt;/IfModule&gt;
 </p>
 
