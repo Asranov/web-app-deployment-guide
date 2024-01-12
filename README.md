@@ -25,4 +25,19 @@
 <img width="1436" alt="cpanel" src="https://github.com/Asranov/web-app-deployment-guide/assets/108418860/1a8d0ae7-561d-4bb1-ae61-e90a2c692b99">
 <br />
 <img width="1433" alt="managerfiles" src="https://github.com/Asranov/web-app-deployment-guide/assets/108418860/8d1fdeca-42e8-4a06-86cd-41e8a531f2a6">
+<br />
+<h2>4.Qadam</h2>
+<p>Bilamiz buni ozini joylaganimiz bilan boshqa sahifaga otsak 404 yani not found qaytaradi buni fix qilish uchun birgina file yaratib ichiga ushbu kodni yozib qoysak kifoya</p>
+<br />
+<p>.htaccess file yaratib olamiz</p>
+<p>
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteBase /
+  RewriteRule ^index\.html$ - [L]
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteRule . /index.html [L]
+</IfModule>
+</p>
 
