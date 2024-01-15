@@ -27,7 +27,7 @@
 <img width="1433" alt="managerfiles" src="https://github.com/Asranov/web-app-deployment-guide/assets/108418860/8d1fdeca-42e8-4a06-86cd-41e8a531f2a6">
 <br />
 <h2>4.Qadam</h2>
-<p>Bilamiz buni ozini joylaganimiz bilan boshqa sahifaga otsak 404 ya’ni not found qaytaradi (React, Vue xa Angular) buni fix qilish uchun public_html folder ichida birgina file yaratib ichiga ushbu kodni yozib qo‘ysak kifoya</p>
+<p>Bilamiz buni ozini joylaganimiz bilan boshqa sahifaga otsak 404 ya’ni not found qaytaradi (React, Vue, Angular...) buni fix qilish uchun public_html folder ichida birgina file yaratib ichiga ushbu kodni yozib qo‘ysak kifoya</p>
 <br />
 <p>.htaccess file yaratib olamiz</p>
 <p>
